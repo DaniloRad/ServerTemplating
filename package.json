@@ -1,0 +1,20 @@
+{
+  "name": "hiroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniloRad/ServerTemplating.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniloRad/ServerTemplating/issues"
+  },
+  "homepage": "https://github.com/DaniloRad/ServerTemplating#readme"
+}
